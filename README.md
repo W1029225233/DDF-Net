@@ -1,5 +1,5 @@
 # The paper has not been published yet
-The article has not been published yet, and the weight file will be updated later
+The article has not been published yet, and the weight file is too large. Please contact w1029225233@163.com to download it.
 
 ## How to run
 python -m visdom.server
